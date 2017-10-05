@@ -1,0 +1,25 @@
+{
+  "name": "shapes",
+  "version": "1.0.0",
+  "description": "practice .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CelesteDS/shapes.git"
+  },
+  "author": "Celeste De Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CelesteDS/shapes/issues"
+  },
+  "homepage": "https://github.com/CelesteDS/shapes#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.8.0",
+    "mocha": "^4.0.0"
+  },
+  "dependencies": {}
+}

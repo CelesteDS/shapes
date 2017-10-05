@@ -1,0 +1,11 @@
+.body{
+  color:#AA77DD;
+  font-size: 8em;
+}
+
+#moon{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  box-shadow: 20px 15px 0 0 purple;
+}
